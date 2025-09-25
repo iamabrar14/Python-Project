@@ -1,0 +1,16 @@
+A calculator that will save our calculation story. Not an ordinary calculator.
+basic 4 operations- add,sub,mul,div.
+
+1)Loop 
+2)taking input expression
+3)User can view history,clear or exit the program.
+4)Priting result and storing that result in a text file for retriving history.
+5)Clear- Clearing full history(Clearing text file).
+
+Concepts:
+1)input function- To get user's opeartion or command.
+2)Functions- To organize code(Calculating or showing history etc).
+3)Conditionals-To decide what to do.
+4)File handling- to save/load or clear calculation history.
+5)Loops- To keep program running.
+6)Basic Math
