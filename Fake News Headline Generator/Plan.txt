@@ -1,0 +1,21 @@
+1)What we are building 
+Ans: Generating Fake+Funny headlines for news. Sarcastic Way
+2)How our program will work
+Ans: i)List of 3-4 words. Subjects+Action+Place. Who-What:Subject,Action:Anything. Place:Where,With what.
+     ii)Sum up subject,action and place.
+     iii)Taking input from user whether they want to generate another sentence or not.
+3)Concepts we are using
+Ans:i)lists-To store group of words.
+    ii)random.choice()-To pick one item randomly from a list.
+    iii)print()-To print fake news headlines.
+    iv)input()-Taking input from user.
+    v)while loop-To repeat the process until the user says no.
+    vi)string concatenatior or f string-To form a sentence using selected words.
+Steps:
+1)import random module.
+2)Create lists of subject,action,place -all within any examples.
+3)use random.choice() to pick any word from the list.
+4)Combine these words into a headline.
+5)print the headline to the user.
+6)Ask the user if they want another headline.
+7)if yes:repeat, if no :stop.
